@@ -22,7 +22,7 @@ import {
         MatDatepickerModule,
         MatNativeDateModule,
         MatCheckboxModule,
-        MatSidenavModule,
+        MatSidenavModule, 
         MatToolbarModule,
         MatListModule
     ],
